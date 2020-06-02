@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rebiotik/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rebiotik/static/js/main.770692f9.chunk.js",
+    "main.js.map": "/rebiotik/static/js/main.770692f9.chunk.js.map",
+    "runtime-main.js": "/rebiotik/static/js/runtime-main.49ea6178.js",
+    "runtime-main.js.map": "/rebiotik/static/js/runtime-main.49ea6178.js.map",
+    "static/js/2.9824275f.chunk.js": "/rebiotik/static/js/2.9824275f.chunk.js",
+    "static/js/2.9824275f.chunk.js.map": "/rebiotik/static/js/2.9824275f.chunk.js.map",
+    "index.html": "/rebiotik/index.html",
+    "precache-manifest.188e3ac316035c70362cde900d2c606a.js": "/rebiotik/precache-manifest.188e3ac316035c70362cde900d2c606a.js",
+    "service-worker.js": "/rebiotik/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rebiotik/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9824275f.chunk.js.LICENSE.txt": "/rebiotik/static/js/2.9824275f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rebiotik/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49ea6178.js",
+    "static/js/2.9824275f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.770692f9.chunk.js"
+  ]
+}
